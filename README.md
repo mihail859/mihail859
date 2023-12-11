@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihail Zhelyazkov
 - 👀 I’m interested in programming with different programming languages and technologies
 - 🌱 I’m currently learning at SoftUni 
-- 💞️ I’m looking to collaborate on projects with Python, Php, html, css, JS and more.
+- 💞️ I’m looking to collaborate on projects with Python, Php, Html, css, JS and more.
 - 📫 How to reach me mihailzhelyazkov@yahoo.com
 
 <!---
